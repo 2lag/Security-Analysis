@@ -3,9 +3,21 @@
 3: Breaches - (Minecraft (from TeamExtremeMC)),(Edmodo),(MathWay),(DailyQuiz),(8tracks),(Wattpad)
 4: Breaches - (ParkMobile),(Mathway),(Animoto),(Edmodo),(Wattpad),(Zynga),(YouNow)
 5: Breaches - (Mathway),(StockX),(Apple),(Wishbone)
-6: Breaches - (SwordFantasy),(CPRewritten),(Wattpad : Diiabolic/$2y$10$ge81w7NuhvKYYaw19.AeoeOgZOt./jZZzaidvNOg2b0tcvRcj3oC.),(Jadenbitch/$2y$05$pVommn2N232TYQfrZh1YW.d3q2ioVwbNguYvn9ftxsghCZsBgJMk2),()
+6: Breaches - (SwordFantasy),(CPRewritten),(Wattpad : Diiabolic/$2y$10$ge81w7NuhvKYYaw19.AeoeOgZOt./jZZzaidvNOg2b0tcvRcj3oC.),(Jadenbitch/$2y$05$pVommn2N232TYQfrZh1YW.d3q2ioVwbNguYvn9ftxsghCZsBgJMk2)
 7: Breaches - (AllFeeds),(ScholarMe),(YouNow),(Wattpad)
 8: Breaches - (LSGB.net),(Alpine Replay),(Lifeboat.net),(EXPOSED PASSWORD : team?)
 9: Clean
 10: Breaches - (GeniusU),(DubSmash),(Edmodo)
 11: Breaches - FIRST_EMAIL:(Zynga),(BlankMediaGames),(ICloud),(Wattpad) SECOND_EMAIL:(Pixlr),(BlankMediaGames),(YouNow)
+12: Breaches - (Takoyaki.sql), (OGUsers : lucidpvp/paytona08), (AimWare), (Russian Leak), (Another Russian Leak), (EXPOSED PASSWORDS : paytona08 , 845147)
+13: Breaches - (MyFitnessPal)
+14: Breaches - (DubSmash)
+15: Clean
+16: Clean
+17: Clean
+
+
+Breaches : Total
+11:17
+Clean : Total
+6:17
