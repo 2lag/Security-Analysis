@@ -9,7 +9,7 @@ Stay tuned for some cool analytical graphs and stuff :D
 
 
 ##### ***UPDATE AS OF 3/20/22***
-     863 combolists extracted totalling 103.307711 megabytes of textual data of ~8,000 so far. Nearing the 10% mark slowly but surely!
+     863 combolists extracted totalling 103.307711 megabytes of textual data of ~8,000 .txt files so far. Nearing the 10% mark slowly but surely!
           -(username:password or email/username/password)
 
      Raw data will not be reallocated here for legality concerns. (See "Password Trafficking")
