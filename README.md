@@ -9,7 +9,7 @@ Stay tuned for some cool analytical graphs and stuff :D
 
 
 ##### ***UPDATE AS OF 3/29/22***
-     902 combolists extracted totalling 86.889708 megabytes of textual data of ~8,500 .txt files so far.
+     902 combolists extracted totalling 86.889708 megabytes, or 86889708 individual characters, of textual data from the ~8,500 .txt files  I've gone through so far.
      Nearing the 10% mark slowly but surely!
           -(username:password or email/username/password)
 
