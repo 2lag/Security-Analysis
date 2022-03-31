@@ -1,5 +1,5 @@
 # Security Analysis *WIP*
-Analyzation of massive data scrape/leak (~87,000 files) from [intelx.io](https://intelx.io), stored on my private server, ~~but potentially reallocated here eventually. We'll see...~~
+Analyzation of massive data scrape/leak (~87,000 files) from [intelx.io](https://intelx.io), stored on my private server, ~~but potentially reallocated here eventually. We'll see...~~ (see update for reasoning as to why this is crossed out)
 
 Also the status of people I know and how bad their security was will be in [this text document](https://github.com/2lag/Security-Analysis/blob/main/viewers.txt).
 
