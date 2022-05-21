@@ -17,5 +17,15 @@ Stay tuned for some cool analytical graphs and stuff :D
      Instead, it will remain on my server, and only the information/graphs RELATED to this data will be updated/displayed here.
 
 ##### **UPDATE AS OF 5/21/22***
-     I was actually making decent progress on the total amount of files I had completed going through, but I had recently recieved a call from my ISP saying they were   contacted by a "third party" about my RBPi (Raspberry Pi) file server, as I had made it publicly available for one of my friends to download some video game footage I had recorded. Through this, all of the breaches were made available, however, they were inaccessible unless someone already had the IP. My best guess is that someone was doing some google "dorking", and was browsing for sites that were IP addresses intending to look for file servers/publicly accessible cameras and whatnot, and somehow stumbled onto my file server, and from there, reported it. Or it was just the NSA/FBI spying or something, who knows. (Besides Doug from my ISP...) 
-     Anyways, this will be concluding my project in the public eye, I'll continue to work in private on it after I take my server down and unencrypt the files, and I will post the final results here in due time.
+     I was actually making decent progress on the total amount of files I had completed going through,
+     but I had recently recieved a call from my ISP saying they were contacted by a "third party" about
+     my RBPi (Raspberry Pi) file server, as I had made it publicly available for one of my friends to
+     download some video game footage I had recorded. 
+     Through this, all of the breaches were made available, however, they were inaccessible unless
+     someone already had the IP. My best guess is that someone was doing some google "dorking",
+     and was browsing for sites that were IP addresses intending to look for file servers/publicly
+     accessible cameras and whatnot, and somehow stumbled onto my file server, and from there, reported it.
+     Or it was just the NSA/FBI spying or something, who knows. (Besides Doug from my ISP...) 
+     Anyways, this will be concluding my project in the public eye,
+     I'll continue to work in private on it after I take my server down and unencrypt the files,
+     and I will post the final results here in due time.
