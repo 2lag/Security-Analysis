@@ -19,8 +19,8 @@ Stay tuned for some cool analytical graphs and stuff :D
 ##### **UPDATE AS OF 5/21/22***
      I was actually making decent progress on the total amount of files I had completed going through,
      but I had recently recieved a call from my ISP saying they were contacted by a "third party" about
-     my RBPi (Raspberry Pi) file server, as I had made it publicly available for one of my friends to
-     download some video game footage I had recorded. 
+     my RBPi (Raspberry Pi) file server, as I had port forwarded for SSH and HTML ports, and thus made it 
+     publicly available for one of my friends to download some video game footage I had recorded. 
      Through this, all of the breaches were made available, however, they were inaccessible unless
      someone already had the IP. My best guess is that someone was doing some google "dorking",
      and was browsing for sites that were IP addresses intending to look for file servers/publicly
